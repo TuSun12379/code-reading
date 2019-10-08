@@ -1,0 +1,1 @@
+Useful code read from others.
